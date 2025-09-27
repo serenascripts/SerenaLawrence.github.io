@@ -1,7 +1,9 @@
 # Hi, I'm Serena Lawrence
 
-I'm a 23-year-old computer science student at **Boise State University**, passionate about technology and problem-solving. You can find this page at: https://serenascripts.github.io/SerenaLawrence.github.io/    
-
+I'm a 23-year-old computer science student at **Boise State University**, passionate about technology and problem-solving. You can find this page at: https://serenascripts.github.io/SerenaLawrence.github.io/   
+  
+<img width="700" height="592" alt="Screenshot 2025-09-26 at 9 37 04 PM" src="https://github.com/user-attachments/assets/3ba14a1e-f4c3-4318-a31c-da7852717296" />
+  
 ---
 
 ## Background  
